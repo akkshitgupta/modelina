@@ -29,6 +29,10 @@
 # Input Champions for JSON Schema input
 */processors/JsonSchemaInputProcessor*.ts
 
+# Input Champions for Avro Schema input
+*/processors/AvroSchemaInputProcessor*.ts @akkshitgupta
+*/helpers/AvroToMetaModel*.ts @akkshitgupta
+
 # Language Champions for TypeScript and it's presets
 */generators/typescript @Samridhi-98
 
